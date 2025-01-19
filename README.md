@@ -1,3 +1,3 @@
-# travel App | Bloc | Clean Architechture
+# Travel App 🌍 | Bloc | Clean Architechture
 
 
