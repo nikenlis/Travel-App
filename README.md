@@ -1,3 +1,3 @@
-# travel
+# Travel App 🌍 | Bloc | Clean Architechture
 
-A new Flutter project.
+
